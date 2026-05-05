@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.14)
 
-set(PROJECT_NAME first_opengl_example)
+set(PROJECT_NAME opengl_example)
 #cmake_projects_example라는 이름의 값을 담은 변수,
 #PROJECT_NAME
 set(CMAKE_CXX_STANDARD 17)
@@ -8,7 +8,7 @@ set(CMAKE_CXX_STANDARD 17)
 #CXX는 C++과 동일한 말 C++ standard 가장 최신버전인
 #17버전을 사용하겠다
 
-set(WINDOW_NAME "First OpenGL Example")
+set(WINDOW_NAME "OpenGL Example")
 set(WINDOW_WIDTH 960)
 set(WINDOW_HEIGHT 540)
 
